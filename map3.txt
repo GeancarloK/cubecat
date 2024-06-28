@@ -1,0 +1,80 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+               XX                                              XX               
+               XX                                              XX               
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+                               XX      PP      XX                               
+                               XX      PP      XX                               
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+X                       G      XX              XX                              X
+X                              XX              XX                              X
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+               XX                              XX                               
+               XX                              XX                               
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+                               XX              XX              XX               
+                               XX              XX              XX               
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XX            XXXX            XXXX            XXXX            XXXX            XX
+XXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXXXXXXXXX  XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXX

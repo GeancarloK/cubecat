@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1686324814 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\punchup\cubecat\main.c
+	"raylib.h"
+
+1689905118 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\main.c
+	<stdio.h>
+	"raylib.h"
+	"camera.h"
+	"gato.h"
+	"mapa.h"
+	"cursor.h"
+	"arrow.h"
+
+1688438374 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\camera.c
+	"camera.h"
+
+1688699504 c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\gato.h
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+	"mapa.h"
+	"structs.h"
+
+1689197525 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\gato.c
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+	"mapa.h"
+	"structs.h"
+	"cursor.h"
+	"camera.h"
+
+1686411724 c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\camera.h
+	"raylib.h"
+	"gato.h"
+
+1689734571 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\mapa.c
+	"raylib.h"
+	"gato.h"
+	"structs.h"
+
+1688687440 c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\mapa.h
+	"raylib.h"
+	"gato.h"
+	"structs.h"
+
+1688699504 c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\structs.h
+	"raylib.h"
+
+1688274853 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\cursor.c
+	"raylib.h"
+	"gato.h"
+
+1688274702 c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\cursor.h
+	"raylib.h"
+
+1688282012 c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\arrow.h
+	"raylib.h"
+	"gato.h"
+
+1688494857 source:c:\users\geanc\onedrive\햞ea de trabalho\trabalhos\cubecat\arrow.c
+	"raylib.h"
+	"math.h"
+	"gato.h"
+	"cursor.h"
+
+1688494858 source:c:\users\geanc\desktop\trabalhos\cubecat\arrow.c
+	"raylib.h"
+	"math.h"
+	"gato.h"
+	"cursor.h"
+
+1688699506 c:\users\geanc\desktop\trabalhos\cubecat\gato.h
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+	"mapa.h"
+	"structs.h"
+
+1688687442 c:\users\geanc\desktop\trabalhos\cubecat\mapa.h
+	"raylib.h"
+	"gato.h"
+	"structs.h"
+
+1688699506 c:\users\geanc\desktop\trabalhos\cubecat\structs.h
+	"raylib.h"
+
+1688274704 c:\users\geanc\desktop\trabalhos\cubecat\cursor.h
+	"raylib.h"
+
+1688438376 source:c:\users\geanc\desktop\trabalhos\cubecat\camera.c
+	"camera.h"
+
+1686411726 c:\users\geanc\desktop\trabalhos\cubecat\camera.h
+	"raylib.h"
+	"gato.h"
+
+1688274854 source:c:\users\geanc\desktop\trabalhos\cubecat\cursor.c
+	"raylib.h"
+	"gato.h"
+
+1689197526 source:c:\users\geanc\desktop\trabalhos\cubecat\gato.c
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+	"mapa.h"
+	"structs.h"
+	"cursor.h"
+	"camera.h"
+
+1689905120 source:c:\users\geanc\desktop\trabalhos\cubecat\main.c
+	<stdio.h>
+	"raylib.h"
+	"camera.h"
+	"gato.h"
+	"mapa.h"
+	"cursor.h"
+	"arrow.h"
+
+1688282014 c:\users\geanc\desktop\trabalhos\cubecat\arrow.h
+	"raylib.h"
+	"gato.h"
+
+1689734572 source:c:\users\geanc\desktop\trabalhos\cubecat\mapa.c
+	"raylib.h"
+	"gato.h"
+	"structs.h"
+
